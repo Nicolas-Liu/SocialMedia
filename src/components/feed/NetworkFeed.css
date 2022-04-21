@@ -1,0 +1,14 @@
+.networkPost{
+    border-radius: 10px;
+    box-shadow: 0 0px 16px -8px rgb(0 0 0 / 68%);
+    margin: 5% auto;
+    height: 50%;
+    width: 60%;
+}
+
+.notificationImg{
+    height: 60px;
+    width: 60px;
+    border-radius: 50%;
+    cursor: pointer;
+}
