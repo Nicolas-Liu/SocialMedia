@@ -2,6 +2,8 @@
 
 Live Demo: https://socialnicolasliutech.netlify.app/
 
+![image](https://user-images.githubusercontent.com/94934469/193484172-68ef8476-e77f-419c-98fd-be219fdc21ca.png)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
